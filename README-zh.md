@@ -49,3 +49,9 @@
 ## 许可
 
 本项目遵循 [Apache-2.0](https://github.com/fastapi-admin/fastapi-admin/blob/master/LICENSE) 开源许可。
+
+## 感谢
+
+[![image](./images/yxvm.png)](https://yxvm.com/)
+
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport) 赞助了本项目

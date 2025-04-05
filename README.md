@@ -64,3 +64,9 @@ See documentation at <https://fastapi-admin-docs.long2ice.io>.
 This project is licensed under the
 [Apache-2.0](https://github.com/fastapi-admin/fastapi-admin/blob/master/LICENSE)
 License.
+
+## Credits
+
+[![image](./images/yxvm.png)](https://yxvm.com/)
+
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport) supports this project.
