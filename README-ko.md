@@ -7,6 +7,7 @@
 
 [中文文档](./README-zh.md)
 [한국어 문서](./README-ko.md)
+[日本語ドキュメント](./README-ja.md)
 
 ## 개요
 
